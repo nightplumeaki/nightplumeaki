@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nightplumeaki
-- 👀 I’m interested in hi-fi audio and everything about consumer electronics
-- 🌱 My major is Electrical and Computer Engineering
-- 😄 Pronouns: he/him
+- 👀 I’m interested in archery, Hi-Fi, and consumer electronics
+- 🌱 My major is Electrical and Computer Engineering, focusing on VLSI & Digital Design
 - ⚡ Fun fact: I have 20+ in-ear monitors but only have a pair of ears
 
 <!---
